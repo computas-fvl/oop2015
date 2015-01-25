@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'mutant',             '~> 0.7.5', git: 'https://github.com/mbj/mutant.git'
-gem 'mutant-rspec',       '~> 0.7.4'
+gem 'mutant',             '~> 0.7.6'
+gem 'mutant-rspec',       '~> 0.7.6'
 gem 'rspec-expectations', '~> 3.1.2'

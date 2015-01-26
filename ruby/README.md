@@ -63,6 +63,6 @@ Use `bundle show [gemname]` to see where a bundled gem is installed.
 
 `bundle exec mutant -I lib -r example --use rspec -- 'Example*'`
 
-5) Open `spec/unit/example.rb` to add tests.
+5) Open `spec/unit/example_spec.rb` to add tests.
 
 6) Repeat 4) and 5) till all mutations are dead.

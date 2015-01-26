@@ -1,10 +1,11 @@
-package com.computas.booster2014;
+package com.computas.oop2015;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
-
 import org.junit.Test;
+
+import com.computas.oop2015.Example;
 
 public class ExampleUnitTest {
 	private static final int[] ZERO = new int[] { 0 };

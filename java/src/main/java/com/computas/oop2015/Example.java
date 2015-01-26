@@ -1,4 +1,4 @@
-package com.computas.booster2014;
+package com.computas.oop2015;
 
 public class Example {
 

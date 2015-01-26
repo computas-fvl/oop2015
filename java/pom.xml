@@ -42,10 +42,10 @@
         <version>0.33</version>
         <configuration>
           <targetClasses>
-            <param>com.computas.booster2014.*</param>
+            <param>com.computas.oop2015.*</param>
           </targetClasses>
           <targetTests>
-            <param>com.computas.booster2014.*</param>
+            <param>com.computas.oop2015.*</param>
           </targetTests>
           <mutators>
             <mutator>DEFAULTS</mutator>
